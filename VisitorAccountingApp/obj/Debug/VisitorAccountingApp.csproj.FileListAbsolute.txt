@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\VisitorAccountingApp.exe.config
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\VisitorAccountingApp.exe
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\VisitorAccountingApp.pdb
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.csprojAssemblyReference.cache
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.csproj.CopyComplete
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.exe
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.pdb
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.Migrations.VisitorAccountingMigration.resources
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.csproj.GenerateResource.cache
+C:\Users\User\source\repos\VisitorAccountingApp\VisitorAccountingApp\obj\Debug\VisitorAccountingApp.Migrations.MigrationVisitor.resources
